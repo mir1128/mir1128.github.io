@@ -8,10 +8,10 @@ permalink: ':title/'
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings add your name
-author: Leach Chen
+author: mir1128 
 
-author-pic: leach-face.jpg
-about-author: I am an Android developer.I will add description latter.
+author-pic: 
+about-author: 
 
 #修改成你自己的
 # Contact links
@@ -34,7 +34,7 @@ csdn:
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus修改成你自己的
-discus_identifier: leach-chen
+discus_identifier: 萝卜 
 # Add your discus identifier
 
 #intensedebate修改成你自己的
